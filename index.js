@@ -1378,7 +1378,7 @@ prep = await itsmevall.prepareMessageFromContent(from,{buttonsMessage},{quoted: 
 🔖Creador : Sxrgxx-OFC
 🔖Prefix : 「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」
 🔖Runtime : ${runtime(process.uptime())}
-🔖Hit Today : ${hit_today.length} Hit
+🔖HitToday : ${hit_today.length} Hit
 🔖Total Hit : ${totalhit} Hit
 🔖Total Chat : ${totalchat.length} Chat`, thumb, [
           {
